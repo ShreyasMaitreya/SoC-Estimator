@@ -1,3 +1,4 @@
+#training data: https://mega.nz/folder/sBgRVATQ#fnreL6PprOyhsjtNw008xQ
 import tkinter
 from tkinter import filedialog
 import os
